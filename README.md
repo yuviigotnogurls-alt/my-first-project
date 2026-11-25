@@ -1,2 +1,4 @@
-# my-first-project
-learning git hub from scratch
+## About Me
+
+I'm learning GitHub from scratch.
+This is my first repository.
