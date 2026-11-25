@@ -2,3 +2,6 @@ Hello GitHub! 🚀
 I'm learning Git and GitHub from scratch.
 
 This is my first experiment with branches
+
+My GitHub journey starts here.
+Next goal: build something cool. 🚀
